@@ -1,0 +1,24 @@
+{
+  "name": "electronjs",
+  "version": "1.0.0",
+  "description": "Prueba 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Daniel Salas",
+  "license": "MIT",
+  "dependencies": {
+    "pkg": "^5.8.0"
+  },
+  "devDependencies": {
+    "electron": "^22.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "DanielSalas"
+  },
+  "keywords": [
+    "electronJS"
+  ]
+}
